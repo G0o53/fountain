@@ -1,5 +1,5 @@
 # Fountain
-Simply put it, fountain is 100% not a shell, instead it is an interprator; the goal is to beat dash in speed
+Simply put it, fountain is 100% not a shell, instead it is an interpreter; the goal is to beat dash in speed... with a silly goose!!!
 
 # To Install
 ## Dependencies:
