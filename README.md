@@ -15,7 +15,7 @@ git clone https://github.com/G0o53/fountain
 ```
 then, simply enter the newly cloned directory with this command
 ```bash
-cd fountain/src
+cd fountain/src/fountain
 ```
 then, lastly, just type (note, this may ask for your password)
 ```bash
